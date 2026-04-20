@@ -15,7 +15,7 @@ This repository presents a curated collection of professional certifications and
 - Business Modeling and Minimum Viable Product (MVP) Design  
 - Financial Planning and Venture Pitching  
 
-*Certificate:* [View Document](./wadhwani-ignite-bootcamp/Wadhwani_IgniteBootcamp_SA_Ashika_Mar2026.jpg)
+*Certificate:* [View Document](./wadhwani-ignite-bootcamp/Wadhwani_IgniteBootcamp_SA_Ashika_Mar2026.pdf)
 
 ## Verification and Usage
 
