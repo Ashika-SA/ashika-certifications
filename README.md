@@ -1,26 +1,30 @@
-# Professional Certifications | S. A. Ashika
+# S. A. Ashika – Professional Certifications Portfolio
 
-This repository presents a curated collection of professional certifications and credentials earned by S. A. Ashika. The documents are included for verification and portfolio purposes.
+B.E. Electronics and Communication Engineering  
+Ponjesly College of Engineering, Nagercoil  
+Third-Year Student | Embedded Systems and IoT
+
+This repository contains verified certificates from professional training programs and technical workshops completed during my undergraduate studies.
 
 ## Certifications
 
-### Wadhwani Foundation — Ignite Bootcamp: Venture Idea Development
-*Date of Completion:* 16 March 2026  
-*Credential ID:* Not Applicable  
-*Issuing Organization:* Wadhwani Foundation  
+### Wadhwani Foundation – Ignite Bootcamp  
+**Completed:** March 2026  
+**Certificate:** [View Document](./wadhwani-ignite-bootcamp/Wadhwani_IgniteBootcamp_SA_Ashika_Mar2026.pdf)  
+**Skills:** Professional Communication, Teamwork, Employability Skills, Workplace Readiness
 
-*Key Competencies:*
-- Idea Development and Ideation  
-- Prototyping and User Testing  
-- Business Modeling and Minimum Viable Product (MVP) Design  
-- Financial Planning and Venture Pitching  
+### Infosys Springboard – Programming in C  
+**Completed:** February 8, 2026  
+**Certificate:** [View Document](./infosys-springboard/Infosys_C_Programming_Ashika_Feb2026.jpg)  
+**Verify Credential:** https://verify.onwingspan.com  
+**Skills:** C Programming, Problem Solving, Algorithmic Thinking, Programming Fundamentals
 
-*Certificate:* [View Document](./wadhwani-ignite-bootcamp/Wadhwani_IgniteBootcamp_SA_Ashika_Mar2026.pdf)
+## Technical Skills Demonstrated
 
-## Verification and Usage
-
-All materials in this repository are the intellectual property of S. A. Ashika. These certificates are shared solely for professional verification purposes. Unauthorized reproduction, distribution, or commercial use is prohibited.
+**Programming:** C, Embedded C  
+**Embedded & IoT:** Arduino, Sensor Integration, Real-time Systems  
+**Tools:** Git, GitHub, Arduino IDE
 
 ---
-
-*Last Updated:* April 2026
+**Contact:** Ashikaashi2006s.a@gmail.com  
+**GitHub:** [Ashika-SA](https://github.com/Ashika-SA)  
