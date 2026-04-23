@@ -15,7 +15,7 @@ This repository contains verified certificates from professional training progra
 
 ### Infosys Springboard – Programming in C  
 **Completed:** February 8, 2026  
-**Certificate:** [View Document](./infosys-springboard/Infosys_C_Programming_Ashika_Feb2026.jpg)  
+**Certificate:** [View Document](./infosys-springboard/Infosys_C_Programming_Ashika_Feb2026.pdf)
 **Verify Credential:** https://verify.onwingspan.com  
 **Skills:** C Programming, Problem Solving, Algorithmic Thinking, Programming Fundamentals
 
